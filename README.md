@@ -1,7 +1,7 @@
 # Skyroads
 
-This is a game written using OpenGL in C++ inspired by Skyroads
-Each tile color gives the player a certain advantage or disadvantage
+This is a game written in C++ using OpenGL inspired by Skyroads.
+Each tile color gives the player a certain advantage or disadvantage.
 
 ## Captures from the game
 ![Capture](https://i.imgur.com/MvHCVhB.png)
