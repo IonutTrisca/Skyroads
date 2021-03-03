@@ -3,6 +3,8 @@
 This is a game written in C++ using OpenGL inspired by Skyroads.
 Each tile color gives the player a certain advantage or disadvantage.
 
+The main source code can be found in **Source/Laboratoare/Tema2**
+
 You can run the game by opening **Framework_EGC.sln** in Visual Studio 2019.
 
 Each tile gives the player some power:
